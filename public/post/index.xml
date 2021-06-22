@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Health Data Research Organization</title>
+    <link>https://hdrobd.github.io/post/</link>
+    <description>Recent content in Posts on Health Data Research Organization</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; Health Data Research Organization, 2021 </copyright>
+    <lastBuildDate>Mon, 03 Oct 2016 15:50:58 +0200</lastBuildDate><atom:link href="https://hdrobd.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Our Approach to Solving Difficult Design Problems</title>
+      <link>https://hdrobd.github.io/post/approach/</link>
+      <pubDate>Mon, 03 Oct 2016 15:50:58 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/post/approach/</guid>
+      <description>Solving the Wrong Problem When you need to solve a problem and you only have a vague description of that problem, the best strategy is to first gather more information about what the problem really is, rather than deeply investing in the design of a sophisticated solution. A great example of this approach to problem solving was described by Aza Raskin in his blog on the development of the first human-powered airplane to cross the English channel.</description>
+    </item>
+    
+    <item>
+      <title>Our Mission: Bayesian Intelligent Agents</title>
+      <link>https://hdrobd.github.io/post/mission/</link>
+      <pubDate>Mon, 03 Oct 2016 15:50:58 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/post/mission/</guid>
+      <description>In this note we describe by an example the research scope and mission of BIASlab.
+Example: a hearing aid design problem Consider a situation where a person (named Sarah) is having coffee at a lunch cafe. Sarah wears hearing aids (HA), but due to other conversations across the room, she has trouble understanding Mark who sits about 3 ft away from her.
+It is not clear to Sarah how to improve the situation through changing some settings of her HAs.</description>
+    </item>
+    
+  </channel>
+</rss>

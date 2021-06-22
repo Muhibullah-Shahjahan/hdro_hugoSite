@@ -1,0 +1,742 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Health Data Research Organization</title>
+    <link>https://hdrobd.github.io/</link>
+    <description>Recent content on Health Data Research Organization</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; Health Data Research Organization, 2021 </copyright>
+    <lastBuildDate>Fri, 28 May 2021 16:37:31 +0200</lastBuildDate><atom:link href="https://hdrobd.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Message Passing-Based Inference for Time-Varying Autoregressive Models</title>
+      <link>https://hdrobd.github.io/publication/message-passing-based-inference-for-tvar/</link>
+      <pubDate>Fri, 28 May 2021 16:37:31 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/message-passing-based-inference-for-tvar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bart van Erp</title>
+      <link>https://hdrobd.github.io/member/bart/</link>
+      <pubDate>Thu, 01 Oct 2020 09:00:00 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/member/bart/</guid>
+      <description>Bart has obtained his Bachelor and Master degrees in Electrical Engineering at the Eindhoven University of Technology in 2018 and 2020, respectively. Currently he is combining his passion for research and education as a PhD candidate - Teaching Assistant at the Eindhoven University of Technology in the BIASlab research group. His research focuses on the design of new signal processing algorithms for audio and speech. These algorithms are inspired by conventional approaches and are extended to allow for on-the-spot user customization.</description>
+    </item>
+    
+    <item>
+      <title>Learning Where to Park</title>
+      <link>https://hdrobd.github.io/publication/learning-where-to-park-iwai/</link>
+      <pubDate>Tue, 15 Sep 2020 16:37:31 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/learning-where-to-park-iwai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Worked Example of Fokker-Planck based Active Inference</title>
+      <link>https://hdrobd.github.io/publication/worked-example-fokker/</link>
+      <pubDate>Mon, 14 Sep 2020 10:40:00 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/worked-example-fokker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online system identification in a Duffing oscillator by free energy minimisation</title>
+      <link>https://hdrobd.github.io/publication/online-sysid-duffing/</link>
+      <pubDate>Mon, 14 Sep 2020 10:40:00 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/online-sysid-duffing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thijn Hermsen</title>
+      <link>https://hdrobd.github.io/member/thijn/</link>
+      <pubDate>Tue, 01 Sep 2020 15:52:22 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/member/thijn/</guid>
+      <description>My name is Thijn Hermsen and I am a MSc student in the Signal Processing Systems group of the Electrical Engineering department at Eindhoven University of Technology. My research focuses on Generative modeling on football player&amp;rsquo;s decisions and further interests extend towards statistics and market strategies.</description>
+    </item>
+    
+    <item>
+      <title>Mark Legters</title>
+      <link>https://hdrobd.github.io/member/mark/</link>
+      <pubDate>Thu, 27 Aug 2020 11:58:58 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/member/mark/</guid>
+      <description>Mark Legters is an MSc student in the SPS group of the Electrical Engineering department at the Eindhoven University of Technology. He is conducting his MSc graduation project at BIASlab, in collaboration with Sorama. His research focuses on In-situ Learning of Acoustic Event Detection using Nature-inspired Artificial Intelligence.</description>
+    </item>
+    
+    <item>
+      <title>Online Message Passing-based Inference in the Hierarchical Gaussian Filter</title>
+      <link>https://hdrobd.github.io/publication/online-mpbi-in-hgf/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/online-mpbi-in-hgf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online Variational Message Passing in Hierarchical Autoregressive Models</title>
+      <link>https://hdrobd.github.io/publication/online_har/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/online_har/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Joint State and Parameter Tracking in Autoregressive Models</title>
+      <link>https://hdrobd.github.io/publication/bayesian-joint-state-and-parameter-tracking-ar/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/bayesian-joint-state-and-parameter-tracking-ar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-time Audio Processing for Hearing Aids using a Model-Based Bayesian Inference Framework</title>
+      <link>https://hdrobd.github.io/publication/real-time-audio-processing-for-hearing-aids/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/real-time-audio-processing-for-hearing-aids/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Where to Park by Active Inference</title>
+      <link>https://hdrobd.github.io/project/learning-where-to-park-by-active-inference/</link>
+      <pubDate>Fri, 22 May 2020 14:45:00 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/project/learning-where-to-park-by-active-inference/</guid>
+      <description>Problem Statement The idea of autonomously operating (&amp;ldquo;self-learning&amp;rdquo;) information processing agents has recently gained traction in the AI research community. Depending on context, the development of these agents involves some hard challenges including the need for the agents to be capable of learning specific goals in dynamic real-world.
+In this project we investigated a novel solution approach to the design of autonomous agents. We recognize that any &amp;ldquo;intelligent&amp;rdquo; autonomously operating agent needs to be minimally capable of realizing three tasks:</description>
+    </item>
+    
+    <item>
+      <title>A Real World Implementation of Active Inference</title>
+      <link>https://hdrobd.github.io/publication/learning-where-to-park/</link>
+      <pubDate>Wed, 20 May 2020 16:37:31 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/learning-where-to-park/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MSc graduation project: Intelligent behavior through cooperating agents</title>
+      <link>https://hdrobd.github.io/open-projects/msc-multi-agent-interaction/</link>
+      <pubDate>Thu, 07 May 2020 08:50:58 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/open-projects/msc-multi-agent-interaction/</guid>
+      <description>Problem description Autonomous guidance is becoming more widely adopted in mobile robotics applications. Factory bots can find their own way from production lines to storage facilities and police drones can scout and search areas without an operator. In many applications, having more than one agent can prove beneficial. For instance, when searching an area, more agents cover more ground (see also Figure 1). But they need to communicate and coordinate. This graduation project will focus on coordination and planning across multiple agents.</description>
+    </item>
+    
+    <item>
+      <title>Approximate Inference by Kullback-Leibler Tensor Belief Propagation</title>
+      <link>https://hdrobd.github.io/publication/kl-tensor-belief-propagation/</link>
+      <pubDate>Wed, 06 May 2020 18:30:00 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/kl-tensor-belief-propagation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BATMAN: BAyesian Target Modelling for Active iNference</title>
+      <link>https://hdrobd.github.io/publication/batman/</link>
+      <pubDate>Wed, 06 May 2020 18:30:00 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/batman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MSc graduation project: Bayesian machine learning on a neuromorphic chip</title>
+      <link>https://hdrobd.github.io/open-projects/msc-neuromorphic-computing/</link>
+      <pubDate>Fri, 10 Apr 2020 08:50:58 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/open-projects/msc-neuromorphic-computing/</guid>
+      <description>Problem description Modern intelligent systems are typically deployed on hardware with extensive computational resources, for example GPU stacks in self-driving cars. As machine learning becomes more ingrained into engineering, the need rises for specialized hardware in which learning algorithms can be deployed efficiently. One strategy is to look to the brain for inspiration. Neuromorphic computing architectures are designed to support learning algorithms in a power- and memory-efficient manner. GrAI Matter Labs is a startup located partly at the High Tech Campus Eindhoven, which develops chips with neuromorphic processor architectures [1].</description>
+    </item>
+    
+    <item>
+      <title>Application of the Free Energy Principle to Estimation and Control</title>
+      <link>https://hdrobd.github.io/publication/application-free-energy-principle/</link>
+      <pubDate>Tue, 22 Oct 2019 14:50:37 +0100</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/application-free-energy-principle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dmitry V. Bagaev</title>
+      <link>https://hdrobd.github.io/member/bvdmitri/</link>
+      <pubDate>Fri, 18 Oct 2019 11:00:00 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/member/bvdmitri/</guid>
+      <description>My research interests lie in the fields of computer science, software developing, numerical modeling, machine learning, computational optimization and high-performant parallelized applications.
+Currently I am a PhD candidate in the SPS group of Electrical Engineering department in Eindhoven University of Technology.</description>
+    </item>
+    
+    <item>
+      <title>MSc graduation project: System identification with Bayesian machine learning</title>
+      <link>https://hdrobd.github.io/open-projects/msc-nonlinear-system-identification-through-bayesian-machine-learning/</link>
+      <pubDate>Thu, 19 Sep 2019 08:50:58 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/open-projects/msc-nonlinear-system-identification-through-bayesian-machine-learning/</guid>
+      <description>Problem description System identification is concerned with estimating a dynamical model from paired input and output data. In particular, we are considering an electro-mechanical positioning system (EMPS), where a motor drives a small platform on a track between two points (a prismatic joint) [1]. These are ubiquitous in robotics and machine tool applications, but can be challenging to control when non-linearities such as friction are involved. Our goal is to estimate the inverse dynamical model (torque/force as a function of position, velocity and acceleration), outperforming the current least-squares baseline approach.</description>
+    </item>
+    
+    <item>
+      <title>Burak Ergul</title>
+      <link>https://hdrobd.github.io/alumni/burak/</link>
+      <pubDate>Tue, 10 Sep 2019 15:52:22 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/alumni/burak/</guid>
+      <description>Burak Ergul was an MSc student in the SPS group of Electrical Engineering department in Eindhoven University of Technology. His research focused on real-world applications of Active Inference on embedded devices.</description>
+    </item>
+    
+    <item>
+      <title>Reparameterization Gradient Message Passing</title>
+      <link>https://hdrobd.github.io/publication/reparameterization-gradient-message-passing/</link>
+      <pubDate>Mon, 02 Sep 2019 12:37:31 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/reparameterization-gradient-message-passing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated Design of Bayesian Signal Processing Algorithms</title>
+      <link>https://hdrobd.github.io/publication/automated_design/</link>
+      <pubDate>Wed, 12 Jun 2019 13:30:00 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/automated_design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online Variational Message Passing in Autoregressive Models</title>
+      <link>https://hdrobd.github.io/publication/online-vmp-arm/</link>
+      <pubDate>Tue, 28 May 2019 18:07:00 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/online-vmp-arm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Bayesian beamforming for sources at different distances with applications in urban monitoring</title>
+      <link>https://hdrobd.github.io/publication/robust-bayesian-beamforming-urban-monitoring/</link>
+      <pubDate>Fri, 17 May 2019 18:07:00 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/robust-bayesian-beamforming-urban-monitoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulating Active Inference Processes by Message Passing</title>
+      <link>https://hdrobd.github.io/publication/simulating-active-inference/</link>
+      <pubDate>Thu, 28 Mar 2019 16:37:31 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/simulating-active-inference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Factor Graph Approach to Automated Design of Bayesian Signal Processing Algorithms</title>
+      <link>https://hdrobd.github.io/publication/factor-graph-bayesian-signal-processing/</link>
+      <pubDate>Tue, 01 Jan 2019 14:50:37 +0100</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/factor-graph-bayesian-signal-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ForneyLab.jl: Fast and flexible automated inference through message passing in Julia</title>
+      <link>https://hdrobd.github.io/publication/forneylab-fast-and-flexible/</link>
+      <pubDate>Fri, 05 Oct 2018 08:07:00 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/forneylab-fast-and-flexible/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online Variational Message Passing in the Hierarchical Gaussian Filter</title>
+      <link>https://hdrobd.github.io/publication/online-vmp-in-hgf/</link>
+      <pubDate>Sun, 23 Sep 2018 18:07:00 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/online-vmp-in-hgf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ForneyLab: A Toolbox for Biologically Plausible Free Energy Minimization in Dynamic Neural Models</title>
+      <link>https://hdrobd.github.io/publication/forneylab-biologically-plausible-fem/</link>
+      <pubDate>Sun, 23 Sep 2018 13:42:00 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/forneylab-biologically-plausible-fem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acoustic Scene Classification from Few Examples</title>
+      <link>https://hdrobd.github.io/publication/asc-from-few-examples/</link>
+      <pubDate>Sun, 09 Sep 2018 09:07:00 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/asc-from-few-examples/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Expectation Propagation in Factor Graphs Involving Both Continuous and Binary Variables</title>
+      <link>https://hdrobd.github.io/publication/robust-expectation-propagation/</link>
+      <pubDate>Thu, 06 Sep 2018 14:07:00 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/robust-expectation-propagation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Information Processing (5SSB0)</title>
+      <link>https://hdrobd.github.io/teaching/aip-5ssb0/</link>
+      <pubDate>Thu, 23 Aug 2018 14:45:00 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/teaching/aip-5ssb0/</guid>
+      <description>In this course, using fundamental concepts of probability theory, we present an introduction to the design of adaptive information processing systems. This course extends coursework on adaptive signal processing and can also be taken as an introduction to **machine learning** and **data science**. Typical application areas include pattern recognition, medical signal analysis, speech and language processing, image processing, bio-informatics and robotics. In the 2018/19 academic year, this class is taught in semester B (3rd quarter) and starts on 4-Feb-2019.</description>
+    </item>
+    
+    <item>
+      <title>Bayesian Machine Learning and Information Processing (5SSD0)</title>
+      <link>https://hdrobd.github.io/teaching/bmlip-2019/</link>
+      <pubDate>Thu, 23 Aug 2018 14:45:00 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/teaching/bmlip-2019/</guid>
+      <description>This course covers the fundamentals of a Bayesian (i.e., probabilistic) approach to machine learning and information processing systems. The Bayesian approach allows for a unified and consistent treatment of many model-based machine learning techniques. We focus on Linear Gaussian systems and will discuss many useful models and applications, including common regression and classification methods, Gaussian mixture models, hidden Markov models and Kalman filters. We will discuss important algorithms for parameter estimation in these models including the Expectation-Maximization (EM) algorithm and Variational Bayes (VB).</description>
+    </item>
+    
+    <item>
+      <title>Bayesian Machine Learning and Information Processing (5SSD0)</title>
+      <link>https://hdrobd.github.io/teaching/bmlip/</link>
+      <pubDate>Thu, 23 Aug 2018 14:45:00 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/teaching/bmlip/</guid>
+      <description>Note: This site is currently under construction.  --- The 2020/21 course &amp;ldquo;Bayesian Machine Learning and Information Processing&amp;rdquo; will start in November 2020 (Q2).
+Course summary This course covers the fundamentals of a Bayesian (i.e., probabilistic) approach to machine learning and information processing systems. The Bayesian approach allows for a unified and consistent treatment of many model-based machine learning techniques. We focus on Linear Gaussian systems and will discuss many useful models and applications, including common regression and classification methods, Gaussian mixture models, hidden Markov models and Kalman filters.</description>
+    </item>
+    
+    <item>
+      <title>ForneyLab: a Julia Toolbox for Factor Graph-Based Probabilistic Programming</title>
+      <link>https://hdrobd.github.io/project/forneylab/</link>
+      <pubDate>Thu, 23 Aug 2018 14:45:00 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/project/forneylab/</guid>
+      <description>Problem Statement The goal of scientific modeling is to find increasingly better models for given datasets. While the proposal of a new model is inherently human (creative) work, the right choice of framework may allow for automated derivation of efficient algorithms for model fitting and performance evaluation. Bayesian (probabilistic) reasoning offers such a principled framework for model specification, fitting and criticism [1]. Moreover, for a large class of models, Bayesian inference can be automatically derived.</description>
+    </item>
+    
+    <item>
+      <title>ForneyLab.jl: a Julia Toolbox for Factor Graph-based Probabilistic Programming</title>
+      <link>https://hdrobd.github.io/publication/forneylab-julia-toolbox/</link>
+      <pubDate>Wed, 08 Aug 2018 13:36:00 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/forneylab-julia-toolbox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Starter&#39;s Guide for students at BIASlab research team</title>
+      <link>https://hdrobd.github.io/research/starter-guide/</link>
+      <pubDate>Thu, 19 Jul 2018 08:50:58 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/research/starter-guide/</guid>
+      <description>This document is a starter&amp;rsquo;s guide for students who do an internship or graduate level (MSc, PhD) project with me. For the duration of your project you will become part of our BIASlab team of graduate students. I discuss here our research mission, our way of working, the tools we use and provide some links to key scientific papers that relate to our research. This guide is always a work in progress and each project will have its own goals and dynamics.</description>
+    </item>
+    
+    <item>
+      <title>A Probabilistic Modeling Approach to One-Shot Gesture Recognition</title>
+      <link>https://hdrobd.github.io/publication/probabilistic-modeling-approach-to-one-shot-gesture-recognition/</link>
+      <pubDate>Fri, 06 Jul 2018 16:37:31 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/probabilistic-modeling-approach-to-one-shot-gesture-recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MSc graduation project: an intelligent agent that learns to read text</title>
+      <link>https://hdrobd.github.io/open-projects/msc-intelligent-reading-agent/</link>
+      <pubDate>Wed, 28 Mar 2018 15:50:58 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/open-projects/msc-intelligent-reading-agent/</guid>
+      <description>Context  BIASlab logo   BIASlab (Fig.1, http://biaslab.org, FLUX-7.060) is a subgroup of the Signal Processing Systems (SPS) that aims to develop Intelligent Autonomous Agents (IA). These agents interact with their environment through their sensors and actuators in order to learn purposeful behavior, e.g., to navigate, play soccer or they may learn to decode speech signals under bad acoustic conditions. Our research projects are inspired by the latest insights from machine learning, computational neuroscience and signal processing.</description>
+    </item>
+    
+    <item>
+      <title>Wouter Kouw</title>
+      <link>https://hdrobd.github.io/member/wouter/</link>
+      <pubDate>Thu, 01 Mar 2018 15:52:22 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/member/wouter/</guid>
+      <description>Intelligent behaviour fascinates me: how animals can efficiently process a flood of sensory signals and learn to survive. Nature has produced elegant solutions for information processing that I believe can help us tackle challenges in modern society. I&amp;rsquo;m passionate about taking what we know from how brains process information, to making intelligent machines.
+My work in the lab focuses on deploying our agents to mobile robotics applications. I collaborate with industry to solve practical problems using free energy minimisation and I collaborate with researchers in control systems and robotics to study how neuro-biological processes of action and perception can be used for engineering.</description>
+    </item>
+    
+    <item>
+      <title>Martin Roa Villescas</title>
+      <link>https://hdrobd.github.io/member/martin/</link>
+      <pubDate>Thu, 01 Feb 2018 11:00:00 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/member/martin/</guid>
+      <description>My research interests lie in the fields of embedded software, computer science, machine learning, and autonomous agents.
+Currently I am a PhD candidate in the ES group of Electrical Engineering department in Eindhoven University of Technology.</description>
+    </item>
+    
+    <item>
+      <title>K-shot learning of acoustic context</title>
+      <link>https://hdrobd.github.io/publication/k-shot-learning-acoustic-context/</link>
+      <pubDate>Fri, 08 Dec 2017 16:37:31 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/k-shot-learning-acoustic-context/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A parametric approach to Bayesian optimization with pairwise comparisons</title>
+      <link>https://hdrobd.github.io/publication/parametric-bayesopt-with-pairwise-comparisons/</link>
+      <pubDate>Sun, 03 Dec 2017 16:37:31 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/parametric-bayesopt-with-pairwise-comparisons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Factor Graph Description of Deep Temporal Active Inference</title>
+      <link>https://hdrobd.github.io/publication/a-factor-graph-description-of-active-inference/</link>
+      <pubDate>Wed, 18 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/a-factor-graph-description-of-active-inference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variational Stabilized Linear Forgetting in State-Space Models</title>
+      <link>https://hdrobd.github.io/publication/variational-slf-in-ssm/</link>
+      <pubDate>Sat, 30 Sep 2017 13:10:00 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/variational-slf-in-ssm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MSc graduation project: Machine Learning for Human Motion Recognition</title>
+      <link>https://hdrobd.github.io/open-projects/msc-motion-recognition/</link>
+      <pubDate>Thu, 24 Aug 2017 15:50:58 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/open-projects/msc-motion-recognition/</guid>
+      <description>Context  BIASlab logo   BIASlab (Fig.1, http://biaslab.org, FLUX-7.060) is a subgroup of the Signal Processing Systems (SPS) that aims to develop Intelligent Autonomous Agents (IA). These agents interact with their environment through their sensors and actuators in order to learn purposeful behavior, e.g., to navigate, play soccer or they may learn to decode speech signals under bad acoustic conditions. Our research projects are inspired by the latest insights from machine learning, computational neuroscience and signal processing.</description>
+    </item>
+    
+    <item>
+      <title>MSc graduation project: Solving the Cocktail Party problem with Intelligent Autonomous Agents</title>
+      <link>https://hdrobd.github.io/open-projects/msc-cocktail-party/</link>
+      <pubDate>Thu, 24 Aug 2017 15:50:58 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/open-projects/msc-cocktail-party/</guid>
+      <description>Context  BIASlab logo   BIASlab (Fig.1, http://biaslab.org, FLUX-7.060) is a subgroup of the Signal Processing Systems (SPS) that aims to develop Intelligent Autonomous Agents (IA). These agents interact with their environment through their sensors and actuators in order to learn purposeful behavior, e.g., to navigate, play soccer or they may learn to decode speech signals under bad acoustic conditions. Our research projects are inspired by the latest insights from machine learning, computational neuroscience and signal processing.</description>
+    </item>
+    
+    <item>
+      <title>A Probabilistic Modeling Approach to Hearing Loss Compensation</title>
+      <link>https://hdrobd.github.io/publication/a-probabilistic-modeling-approach-to-hlc/</link>
+      <pubDate>Tue, 11 Jul 2017 13:19:00 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/a-probabilistic-modeling-approach-to-hlc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The graphical brain: belief propagation and active inference</title>
+      <link>https://hdrobd.github.io/publication/the-graphical-brain/</link>
+      <pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/the-graphical-brain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Gaussian process mixture prior for hearing loss modeling</title>
+      <link>https://hdrobd.github.io/publication/gp-mixture-prior-for-hearing-loss/</link>
+      <pubDate>Fri, 09 Jun 2017 16:37:31 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/gp-mixture-prior-for-hearing-loss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An In-situ Trainable Gesture Classifier</title>
+      <link>https://hdrobd.github.io/publication/an-in-situ-trainable-gesture-classifier/</link>
+      <pubDate>Fri, 09 Jun 2017 16:37:31 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/an-in-situ-trainable-gesture-classifier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Inference-based Reinforcement Learning</title>
+      <link>https://hdrobd.github.io/publication/pirel/</link>
+      <pubDate>Fri, 09 Jun 2017 16:37:31 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/pirel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Probabilistic Modeling Approach to Hearing Loss Compensation</title>
+      <link>https://hdrobd.github.io/publication/probabilistic-hearing-loss-compensation/</link>
+      <pubDate>Thu, 10 Nov 2016 16:37:31 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/probabilistic-hearing-loss-compensation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our Approach to Solving Difficult Design Problems</title>
+      <link>https://hdrobd.github.io/post/approach/</link>
+      <pubDate>Mon, 03 Oct 2016 15:50:58 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/post/approach/</guid>
+      <description>Solving the Wrong Problem When you need to solve a problem and you only have a vague description of that problem, the best strategy is to first gather more information about what the problem really is, rather than deeply investing in the design of a sophisticated solution. A great example of this approach to problem solving was described by Aza Raskin in his blog on the development of the first human-powered airplane to cross the English channel.</description>
+    </item>
+    
+    <item>
+      <title>Our Mission: Bayesian Intelligent Agents</title>
+      <link>https://hdrobd.github.io/post/mission/</link>
+      <pubDate>Mon, 03 Oct 2016 15:50:58 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/post/mission/</guid>
+      <description>In this note we describe by an example the research scope and mission of BIASlab.
+Example: a hearing aid design problem Consider a situation where a person (named Sarah) is having coffee at a lunch cafe. Sarah wears hearing aids (HA), but due to other conversations across the room, she has trouble understanding Mark who sits about 3 ft away from her.
+It is not clear to Sarah how to improve the situation through changing some settings of her HAs.</description>
+    </item>
+    
+    <item>
+      <title>Joris Kraak</title>
+      <link>https://hdrobd.github.io/member/joris/</link>
+      <pubDate>Thu, 22 Sep 2016 10:45:17 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/member/joris/</guid>
+      <description>Joris Kraak received his M.Sc. in Electrical Engineering from the Eindhoven University of Technology (TU/e) in 2012. Since starting at GN Hearing in late 2010 he has been responsible for the development and maintenance of a number of MATLAB toolboxes for the creation and distribution of signal processing solutions. More recently, his work has been focused on the development of a fast prototyping framework for the BIASlab team based on Julia and a diverse suite of web and mobile technologies.</description>
+    </item>
+    
+    <item>
+      <title>Anouk van Diepen</title>
+      <link>https://hdrobd.github.io/alumni/anouk/</link>
+      <pubDate>Wed, 14 Sep 2016 11:45:56 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/alumni/anouk/</guid>
+      <description>Anouk van Diepen received her M.Sc. degree in Electrical Engineering from the TU Eindhoven in 2017.</description>
+    </item>
+    
+    <item>
+      <title>Quan (Eric) Nguyen</title>
+      <link>https://hdrobd.github.io/alumni/eric/</link>
+      <pubDate>Wed, 14 Sep 2016 11:45:56 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/alumni/eric/</guid>
+      <description>Quan (Eric) Nguyen received a M.Sc. in Computer Science (with a specialization in Algorithms, Data Analytics and Machine Learning; and a minor in Statistics, both with distinction) from the University of Helsinki in 2015. He left the group in 2018.</description>
+    </item>
+    
+    <item>
+      <title>Thijs van de Laar</title>
+      <link>https://hdrobd.github.io/member/thijs/</link>
+      <pubDate>Thu, 08 Sep 2016 09:59:35 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/member/thijs/</guid>
+      <description>Thijs van de Laar received his M.Sc. degree in natural sciences from the Radboud University Nijmegen in 2010, and his Ph.D. degree in machine learning from the Eindhoven University of Technology in 2019. Currently he works as a postdoctoral researcher in the Signal Processing Systems group at the Eindhoven University of Technology. His research focuses on personalization of audio processing algorithms through the development and application of modern machine learning techniques.</description>
+    </item>
+    
+    <item>
+      <title>Marco Cox</title>
+      <link>https://hdrobd.github.io/member/marco/</link>
+      <pubDate>Wed, 07 Sep 2016 15:30:39 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/member/marco/</guid>
+      <description>Marco Cox is a PhD candidate in the Electrical Engineering department of TU Eindhoven, working in the BIASlab team. His research focusses on Bayesian machine learning techniques for optimization and signal processing. He is also interested in information theory, computer architecture, and combinatorics. Marco received the M.Sc. degree in electrical engineering from TU Eindhoven in 2014.</description>
+    </item>
+    
+    <item>
+      <title>A Probabilistic Modeling Approach to In-situ Trainable Gesture Recognition</title>
+      <link>https://hdrobd.github.io/project/a-probabilistic-approach-to-in-situ-trainable-gesture-recognition/</link>
+      <pubDate>Tue, 12 Jul 2016 16:10:22 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/project/a-probabilistic-approach-to-in-situ-trainable-gesture-recognition/</guid>
+      <description>Problem Statement Gesture recognition, i.e., the recognition of pre-defined gestures by arm or hand movements, enables a natural extension of the way we currently interact with devices. With the increasing amount of human-machine interactions, alternative user interfaces will become more important. Commercially available gesture recognition systems are usually pre-trained: the developers specify a set of gestures, and the user is provided with an algorithm that can recognize just these gestures. In order to improve the user experience, it is often desirable to allow users to define their own gestures.</description>
+    </item>
+    
+    <item>
+      <title>Bayesian Pure-tone Audiometry</title>
+      <link>https://hdrobd.github.io/project/bayesian-pure-tone-audiometry/</link>
+      <pubDate>Tue, 12 Jul 2016 16:10:22 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/project/bayesian-pure-tone-audiometry/</guid>
+      <description>Problem Statement The pure-tone hearing threshold - the lowest sound intensity that a person can perceive - is usually estimated from responses to stimuli at a set of standard frequencies. At each frequency, a staircase &amp;lsquo;up 5 dB - down 10 dB&amp;rsquo; approach is used to incrementally estimate the threshold level. This simple approach however suffers from a number of drawbacks:
+ It does not provide an uncertainty measure for the estimated thresholds.</description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Hearing Loss Compensation</title>
+      <link>https://hdrobd.github.io/project/probabilistic-hearing-loss-compensation/</link>
+      <pubDate>Tue, 12 Jul 2016 16:10:22 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/project/probabilistic-hearing-loss-compensation/</guid>
+      <description>Problem Statement Hearing loss is a problem that affects millions of people. In order to alleviate the problem, many patients wear hearing aids that contain audio processing algorithms with lots of tuning parameters. Since hearing loss profiles are unique for each individual, it is hard to find the best hearing aid settings for a given patient, especially when unforeseen hearing problems may arise in-the-field.
+We aim to automate hearing aid algorithm design under in-situ conditions and argue that a proper hearing aid design agent (HADA) should be able to support the following tasks:</description>
+    </item>
+    
+    <item>
+      <title>Albert Podusenko</title>
+      <link>https://hdrobd.github.io/member/albert/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/member/albert/</guid>
+      <description>Albert Podusenko is a PhD candidate in the SPS group of Electrical Engineering department in Eindhoven University of Technology. His research focuses on Bayesian intelligent agents.</description>
+    </item>
+    
+    <item>
+      <title>Bert de Vries</title>
+      <link>https://hdrobd.github.io/member/bert/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/member/bert/</guid>
+      <description>Bert de Vries received M.Sc. (1986) and Ph.D. (1991) degrees in Electrical Engineering from Eindhoven University of Technology (TU/e) and the University of Florida, respectively. From 1992 until 1999 he worked at Sarnoff Research Center in Princeton (NJ), where he contributed to research projects over a wide range of signal and image processing topics such as word spotting, financial market prediction and breast cancer detection from mammograms. Since April 1999 he has been employed in the hearing aids industry (currently at GN Hearing), both as a Principal Scientist and as a Research Manager.</description>
+    </item>
+    
+    <item>
+      <title>Hoang M.H. Nguyen</title>
+      <link>https://hdrobd.github.io/member/hoang/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/member/hoang/</guid>
+      <description>Hoang Minh Huu Nguyen is a MSc student in the SPS group of the Electrical Engineering department at Eindhoven University of Technology. His research focuses on Differentiable Programming for Speech and Audio Processing.</description>
+    </item>
+    
+    <item>
+      <title>Ismail Senoz</title>
+      <link>https://hdrobd.github.io/member/ismail/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/member/ismail/</guid>
+      <description>Ismail Senoz is a PhD candidate in the SPS group of Electrical Engineering department in Eindhoven University of Technology. His research focuses on automating approximate inference in Hierarchical Bayesian Systems.</description>
+    </item>
+    
+    <item>
+      <title>Ivan Bocharov</title>
+      <link>https://hdrobd.github.io/member/ivan/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/member/ivan/</guid>
+      <description>Ivan Bocharov is a PhD candidate in the SPS group of Electrical Engineering department in Eindhoven University of Technology. His research focuses on variational methods for machine learning and hierarchical dynamical systems. Aside from that he&amp;rsquo;s interested in natural language processing and compiler design.</description>
+    </item>
+    
+    <item>
+      <title>Magnus Koudahl</title>
+      <link>https://hdrobd.github.io/member/magnus/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/member/magnus/</guid>
+      <description>Magnus holds a M.Sc in IT &amp;amp; Cognition from the University of Copenhagen and has previously worked in Computational Neuroeconomics. He is currently a Ph.D candidate at TU/e where his research centers on fusing Active Inference and Bayesian Machine learning to create novel solutions for Reinforcement Learning problems.</description>
+    </item>
+    
+    <item>
+      <title>Patrick Wijnings</title>
+      <link>https://hdrobd.github.io/member/patrick/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/member/patrick/</guid>
+      <description>Patrick Wijnings got his MSc in Electrical Engineering at Eindhoven University of Technology in 2015. Since 2011 he has been working (part time) at Sorama as System Engineer, where he helped develop the hardware and real-time signal processing core used in the largest microphone array in the world. Since July 2017 he is pursuing his PhD at Eindhoven University of Technology in collaboration with BIASlab and Sorama. His research interests are Bayesian inverse acoustics for large microphone arrays, and the accompanying problem of approximate inference for high-dimensional models.</description>
+    </item>
+    
+    <item>
+      <title>Semih Akbayrak</title>
+      <link>https://hdrobd.github.io/member/semih/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/member/semih/</guid>
+      <description>Semih Akbayrak is a PhD candidate in the SPS group of Electrical Engineering department in Eindhoven University of Technology. His research focuses on automating approximate inference in probabilistic models. Previously, he studied statistical interpretation of matrix and tensor factorizations.</description>
+    </item>
+    
+    <item>
+      <title>Tjalling Tjalkens</title>
+      <link>https://hdrobd.github.io/alumni/tjalling/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/alumni/tjalling/</guid>
+      <description>Tjalling Tjalkens received the M.S. degree in electrical engineering from the Eindhoven University of Technology, Eindhoven, The Netherlands in 1983 and the Ph.D. degree from the same university in 1987.
+From 1983 to 1986 he was a Research Assistant at the Eindhoven University of Technology and since 1986 he is a staff member at the same university where he is currently an associate professor in Information Theory. His research interest is in (universal) source coding theory and machine learning and he (co-)authored over 50 papers in this area.</description>
+    </item>
+    
+    <item>
+      <title>A Bayesian binary classification approach to pure tone audiometry</title>
+      <link>https://hdrobd.github.io/publication/bayesian-pta/</link>
+      <pubDate>Thu, 10 Sep 2015 16:37:31 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/bayesian-pta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Factor Graph Approach to Gaussian Process Preference Learning</title>
+      <link>https://hdrobd.github.io/publication/factor-graph-approach-to-gaussian-process-preference-learning/</link>
+      <pubDate>Fri, 10 Oct 2014 16:37:31 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/factor-graph-approach-to-gaussian-process-preference-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Factor Graph Approach to Hearing Loss Compensation</title>
+      <link>https://hdrobd.github.io/publication/factor-graph-approach-to-hlc/</link>
+      <pubDate>Fri, 10 Oct 2014 16:37:31 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/factor-graph-approach-to-hlc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Probabilistic Approach To Hearing Loss Compensation</title>
+      <link>https://hdrobd.github.io/publication/probabilistic-approach-to-hlc/</link>
+      <pubDate>Wed, 10 Sep 2014 16:37:31 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/probabilistic-approach-to-hlc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In-situ Personalization of Signal Processing Systems</title>
+      <link>https://hdrobd.github.io/publication/in-situ-personalization/</link>
+      <pubDate>Fri, 13 Sep 2013 16:30:00 +0100</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/in-situ-personalization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Machine Learning Framework for Bayesian Signal Processing</title>
+      <link>https://hdrobd.github.io/publication/ml-framework-for-bayesian-signal-processing/</link>
+      <pubDate>Sat, 10 Aug 2013 16:37:31 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/ml-framework-for-bayesian-signal-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About BIASlab</title>
+      <link>https://hdrobd.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdrobd.github.io/about/</guid>
+      <description>About BIASlab BIASlab is a research team at Eindhoven University of Technology. Our research focuses on nature-inspired (&amp;ldquo;natural&amp;rdquo;) artificial intelligence technology for engineering applications. In particular, we are inspired by recent results in theoretical neuroscience (the Free Energy Principle) on how the brain perceives, learns and makes decisions through unsupervised real-time interactions with its environment.
+Our mission is to translate these ideas to synthetic agents that automate the design of signal processing and control systems through unsupervised environmental interactions.</description>
+    </item>
+    
+  </channel>
+</rss>

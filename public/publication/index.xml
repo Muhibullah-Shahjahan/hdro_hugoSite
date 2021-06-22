@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Health Data Research Organization</title>
+    <link>https://hdrobd.github.io/publication/</link>
+    <description>Recent content in Publications on Health Data Research Organization</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; Health Data Research Organization, 2021 </copyright>
+    <lastBuildDate>Fri, 28 May 2021 16:37:31 +0200</lastBuildDate><atom:link href="https://hdrobd.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Message Passing-Based Inference for Time-Varying Autoregressive Models</title>
+      <link>https://hdrobd.github.io/publication/message-passing-based-inference-for-tvar/</link>
+      <pubDate>Fri, 28 May 2021 16:37:31 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/message-passing-based-inference-for-tvar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Where to Park</title>
+      <link>https://hdrobd.github.io/publication/learning-where-to-park-iwai/</link>
+      <pubDate>Tue, 15 Sep 2020 16:37:31 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/learning-where-to-park-iwai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Worked Example of Fokker-Planck based Active Inference</title>
+      <link>https://hdrobd.github.io/publication/worked-example-fokker/</link>
+      <pubDate>Mon, 14 Sep 2020 10:40:00 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/worked-example-fokker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online system identification in a Duffing oscillator by free energy minimisation</title>
+      <link>https://hdrobd.github.io/publication/online-sysid-duffing/</link>
+      <pubDate>Mon, 14 Sep 2020 10:40:00 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/online-sysid-duffing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online Message Passing-based Inference in the Hierarchical Gaussian Filter</title>
+      <link>https://hdrobd.github.io/publication/online-mpbi-in-hgf/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/online-mpbi-in-hgf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online Variational Message Passing in Hierarchical Autoregressive Models</title>
+      <link>https://hdrobd.github.io/publication/online_har/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/online_har/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Joint State and Parameter Tracking in Autoregressive Models</title>
+      <link>https://hdrobd.github.io/publication/bayesian-joint-state-and-parameter-tracking-ar/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/bayesian-joint-state-and-parameter-tracking-ar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-time Audio Processing for Hearing Aids using a Model-Based Bayesian Inference Framework</title>
+      <link>https://hdrobd.github.io/publication/real-time-audio-processing-for-hearing-aids/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/real-time-audio-processing-for-hearing-aids/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Real World Implementation of Active Inference</title>
+      <link>https://hdrobd.github.io/publication/learning-where-to-park/</link>
+      <pubDate>Wed, 20 May 2020 16:37:31 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/learning-where-to-park/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approximate Inference by Kullback-Leibler Tensor Belief Propagation</title>
+      <link>https://hdrobd.github.io/publication/kl-tensor-belief-propagation/</link>
+      <pubDate>Wed, 06 May 2020 18:30:00 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/kl-tensor-belief-propagation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BATMAN: BAyesian Target Modelling for Active iNference</title>
+      <link>https://hdrobd.github.io/publication/batman/</link>
+      <pubDate>Wed, 06 May 2020 18:30:00 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/batman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application of the Free Energy Principle to Estimation and Control</title>
+      <link>https://hdrobd.github.io/publication/application-free-energy-principle/</link>
+      <pubDate>Tue, 22 Oct 2019 14:50:37 +0100</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/application-free-energy-principle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reparameterization Gradient Message Passing</title>
+      <link>https://hdrobd.github.io/publication/reparameterization-gradient-message-passing/</link>
+      <pubDate>Mon, 02 Sep 2019 12:37:31 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/reparameterization-gradient-message-passing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated Design of Bayesian Signal Processing Algorithms</title>
+      <link>https://hdrobd.github.io/publication/automated_design/</link>
+      <pubDate>Wed, 12 Jun 2019 13:30:00 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/automated_design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online Variational Message Passing in Autoregressive Models</title>
+      <link>https://hdrobd.github.io/publication/online-vmp-arm/</link>
+      <pubDate>Tue, 28 May 2019 18:07:00 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/online-vmp-arm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Bayesian beamforming for sources at different distances with applications in urban monitoring</title>
+      <link>https://hdrobd.github.io/publication/robust-bayesian-beamforming-urban-monitoring/</link>
+      <pubDate>Fri, 17 May 2019 18:07:00 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/robust-bayesian-beamforming-urban-monitoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulating Active Inference Processes by Message Passing</title>
+      <link>https://hdrobd.github.io/publication/simulating-active-inference/</link>
+      <pubDate>Thu, 28 Mar 2019 16:37:31 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/simulating-active-inference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Factor Graph Approach to Automated Design of Bayesian Signal Processing Algorithms</title>
+      <link>https://hdrobd.github.io/publication/factor-graph-bayesian-signal-processing/</link>
+      <pubDate>Tue, 01 Jan 2019 14:50:37 +0100</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/factor-graph-bayesian-signal-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ForneyLab.jl: Fast and flexible automated inference through message passing in Julia</title>
+      <link>https://hdrobd.github.io/publication/forneylab-fast-and-flexible/</link>
+      <pubDate>Fri, 05 Oct 2018 08:07:00 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/forneylab-fast-and-flexible/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online Variational Message Passing in the Hierarchical Gaussian Filter</title>
+      <link>https://hdrobd.github.io/publication/online-vmp-in-hgf/</link>
+      <pubDate>Sun, 23 Sep 2018 18:07:00 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/online-vmp-in-hgf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ForneyLab: A Toolbox for Biologically Plausible Free Energy Minimization in Dynamic Neural Models</title>
+      <link>https://hdrobd.github.io/publication/forneylab-biologically-plausible-fem/</link>
+      <pubDate>Sun, 23 Sep 2018 13:42:00 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/forneylab-biologically-plausible-fem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acoustic Scene Classification from Few Examples</title>
+      <link>https://hdrobd.github.io/publication/asc-from-few-examples/</link>
+      <pubDate>Sun, 09 Sep 2018 09:07:00 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/asc-from-few-examples/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Expectation Propagation in Factor Graphs Involving Both Continuous and Binary Variables</title>
+      <link>https://hdrobd.github.io/publication/robust-expectation-propagation/</link>
+      <pubDate>Thu, 06 Sep 2018 14:07:00 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/robust-expectation-propagation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ForneyLab.jl: a Julia Toolbox for Factor Graph-based Probabilistic Programming</title>
+      <link>https://hdrobd.github.io/publication/forneylab-julia-toolbox/</link>
+      <pubDate>Wed, 08 Aug 2018 13:36:00 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/forneylab-julia-toolbox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Probabilistic Modeling Approach to One-Shot Gesture Recognition</title>
+      <link>https://hdrobd.github.io/publication/probabilistic-modeling-approach-to-one-shot-gesture-recognition/</link>
+      <pubDate>Fri, 06 Jul 2018 16:37:31 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/probabilistic-modeling-approach-to-one-shot-gesture-recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K-shot learning of acoustic context</title>
+      <link>https://hdrobd.github.io/publication/k-shot-learning-acoustic-context/</link>
+      <pubDate>Fri, 08 Dec 2017 16:37:31 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/k-shot-learning-acoustic-context/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A parametric approach to Bayesian optimization with pairwise comparisons</title>
+      <link>https://hdrobd.github.io/publication/parametric-bayesopt-with-pairwise-comparisons/</link>
+      <pubDate>Sun, 03 Dec 2017 16:37:31 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/parametric-bayesopt-with-pairwise-comparisons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Factor Graph Description of Deep Temporal Active Inference</title>
+      <link>https://hdrobd.github.io/publication/a-factor-graph-description-of-active-inference/</link>
+      <pubDate>Wed, 18 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/a-factor-graph-description-of-active-inference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variational Stabilized Linear Forgetting in State-Space Models</title>
+      <link>https://hdrobd.github.io/publication/variational-slf-in-ssm/</link>
+      <pubDate>Sat, 30 Sep 2017 13:10:00 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/variational-slf-in-ssm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Probabilistic Modeling Approach to Hearing Loss Compensation</title>
+      <link>https://hdrobd.github.io/publication/a-probabilistic-modeling-approach-to-hlc/</link>
+      <pubDate>Tue, 11 Jul 2017 13:19:00 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/a-probabilistic-modeling-approach-to-hlc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The graphical brain: belief propagation and active inference</title>
+      <link>https://hdrobd.github.io/publication/the-graphical-brain/</link>
+      <pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/the-graphical-brain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Gaussian process mixture prior for hearing loss modeling</title>
+      <link>https://hdrobd.github.io/publication/gp-mixture-prior-for-hearing-loss/</link>
+      <pubDate>Fri, 09 Jun 2017 16:37:31 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/gp-mixture-prior-for-hearing-loss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An In-situ Trainable Gesture Classifier</title>
+      <link>https://hdrobd.github.io/publication/an-in-situ-trainable-gesture-classifier/</link>
+      <pubDate>Fri, 09 Jun 2017 16:37:31 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/an-in-situ-trainable-gesture-classifier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Inference-based Reinforcement Learning</title>
+      <link>https://hdrobd.github.io/publication/pirel/</link>
+      <pubDate>Fri, 09 Jun 2017 16:37:31 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/pirel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Probabilistic Modeling Approach to Hearing Loss Compensation</title>
+      <link>https://hdrobd.github.io/publication/probabilistic-hearing-loss-compensation/</link>
+      <pubDate>Thu, 10 Nov 2016 16:37:31 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/probabilistic-hearing-loss-compensation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Bayesian binary classification approach to pure tone audiometry</title>
+      <link>https://hdrobd.github.io/publication/bayesian-pta/</link>
+      <pubDate>Thu, 10 Sep 2015 16:37:31 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/bayesian-pta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Factor Graph Approach to Gaussian Process Preference Learning</title>
+      <link>https://hdrobd.github.io/publication/factor-graph-approach-to-gaussian-process-preference-learning/</link>
+      <pubDate>Fri, 10 Oct 2014 16:37:31 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/factor-graph-approach-to-gaussian-process-preference-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Factor Graph Approach to Hearing Loss Compensation</title>
+      <link>https://hdrobd.github.io/publication/factor-graph-approach-to-hlc/</link>
+      <pubDate>Fri, 10 Oct 2014 16:37:31 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/factor-graph-approach-to-hlc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Probabilistic Approach To Hearing Loss Compensation</title>
+      <link>https://hdrobd.github.io/publication/probabilistic-approach-to-hlc/</link>
+      <pubDate>Wed, 10 Sep 2014 16:37:31 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/probabilistic-approach-to-hlc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In-situ Personalization of Signal Processing Systems</title>
+      <link>https://hdrobd.github.io/publication/in-situ-personalization/</link>
+      <pubDate>Fri, 13 Sep 2013 16:30:00 +0100</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/in-situ-personalization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Machine Learning Framework for Bayesian Signal Processing</title>
+      <link>https://hdrobd.github.io/publication/ml-framework-for-bayesian-signal-processing/</link>
+      <pubDate>Sat, 10 Aug 2013 16:37:31 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/publication/ml-framework-for-bayesian-signal-processing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

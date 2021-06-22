@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Health Data Research Organization</title>
+    <link>https://hdrobd.github.io/project/</link>
+    <description>Recent content in Projects on Health Data Research Organization</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; Health Data Research Organization, 2021 </copyright>
+    <lastBuildDate>Fri, 22 May 2020 14:45:00 +0200</lastBuildDate><atom:link href="https://hdrobd.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learning Where to Park by Active Inference</title>
+      <link>https://hdrobd.github.io/project/learning-where-to-park-by-active-inference/</link>
+      <pubDate>Fri, 22 May 2020 14:45:00 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/project/learning-where-to-park-by-active-inference/</guid>
+      <description>Problem Statement The idea of autonomously operating (&amp;ldquo;self-learning&amp;rdquo;) information processing agents has recently gained traction in the AI research community. Depending on context, the development of these agents involves some hard challenges including the need for the agents to be capable of learning specific goals in dynamic real-world.
+In this project we investigated a novel solution approach to the design of autonomous agents. We recognize that any &amp;ldquo;intelligent&amp;rdquo; autonomously operating agent needs to be minimally capable of realizing three tasks:</description>
+    </item>
+    
+    <item>
+      <title>ForneyLab: a Julia Toolbox for Factor Graph-Based Probabilistic Programming</title>
+      <link>https://hdrobd.github.io/project/forneylab/</link>
+      <pubDate>Thu, 23 Aug 2018 14:45:00 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/project/forneylab/</guid>
+      <description>Problem Statement The goal of scientific modeling is to find increasingly better models for given datasets. While the proposal of a new model is inherently human (creative) work, the right choice of framework may allow for automated derivation of efficient algorithms for model fitting and performance evaluation. Bayesian (probabilistic) reasoning offers such a principled framework for model specification, fitting and criticism [1]. Moreover, for a large class of models, Bayesian inference can be automatically derived.</description>
+    </item>
+    
+    <item>
+      <title>A Probabilistic Modeling Approach to In-situ Trainable Gesture Recognition</title>
+      <link>https://hdrobd.github.io/project/a-probabilistic-approach-to-in-situ-trainable-gesture-recognition/</link>
+      <pubDate>Tue, 12 Jul 2016 16:10:22 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/project/a-probabilistic-approach-to-in-situ-trainable-gesture-recognition/</guid>
+      <description>Problem Statement Gesture recognition, i.e., the recognition of pre-defined gestures by arm or hand movements, enables a natural extension of the way we currently interact with devices. With the increasing amount of human-machine interactions, alternative user interfaces will become more important. Commercially available gesture recognition systems are usually pre-trained: the developers specify a set of gestures, and the user is provided with an algorithm that can recognize just these gestures. In order to improve the user experience, it is often desirable to allow users to define their own gestures.</description>
+    </item>
+    
+    <item>
+      <title>Bayesian Pure-tone Audiometry</title>
+      <link>https://hdrobd.github.io/project/bayesian-pure-tone-audiometry/</link>
+      <pubDate>Tue, 12 Jul 2016 16:10:22 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/project/bayesian-pure-tone-audiometry/</guid>
+      <description>Problem Statement The pure-tone hearing threshold - the lowest sound intensity that a person can perceive - is usually estimated from responses to stimuli at a set of standard frequencies. At each frequency, a staircase &amp;lsquo;up 5 dB - down 10 dB&amp;rsquo; approach is used to incrementally estimate the threshold level. This simple approach however suffers from a number of drawbacks:
+ It does not provide an uncertainty measure for the estimated thresholds.</description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Hearing Loss Compensation</title>
+      <link>https://hdrobd.github.io/project/probabilistic-hearing-loss-compensation/</link>
+      <pubDate>Tue, 12 Jul 2016 16:10:22 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/project/probabilistic-hearing-loss-compensation/</guid>
+      <description>Problem Statement Hearing loss is a problem that affects millions of people. In order to alleviate the problem, many patients wear hearing aids that contain audio processing algorithms with lots of tuning parameters. Since hearing loss profiles are unique for each individual, it is hard to find the best hearing aid settings for a given patient, especially when unforeseen hearing problems may arise in-the-field.
+We aim to automate hearing aid algorithm design under in-situ conditions and argue that a proper hearing aid design agent (HADA) should be able to support the following tasks:</description>
+    </item>
+    
+  </channel>
+</rss>

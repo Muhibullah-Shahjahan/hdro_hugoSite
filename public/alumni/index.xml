@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alumni on Health Data Research Organization</title>
+    <link>https://hdrobd.github.io/alumni/</link>
+    <description>Recent content in Alumni on Health Data Research Organization</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; Health Data Research Organization, 2021 </copyright>
+    <lastBuildDate>Tue, 10 Sep 2019 15:52:22 +0200</lastBuildDate><atom:link href="https://hdrobd.github.io/alumni/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Burak Ergul</title>
+      <link>https://hdrobd.github.io/alumni/burak/</link>
+      <pubDate>Tue, 10 Sep 2019 15:52:22 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/alumni/burak/</guid>
+      <description>Burak Ergul was an MSc student in the SPS group of Electrical Engineering department in Eindhoven University of Technology. His research focused on real-world applications of Active Inference on embedded devices.</description>
+    </item>
+    
+    <item>
+      <title>Anouk van Diepen</title>
+      <link>https://hdrobd.github.io/alumni/anouk/</link>
+      <pubDate>Wed, 14 Sep 2016 11:45:56 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/alumni/anouk/</guid>
+      <description>Anouk van Diepen received her M.Sc. degree in Electrical Engineering from the TU Eindhoven in 2017.</description>
+    </item>
+    
+    <item>
+      <title>Quan (Eric) Nguyen</title>
+      <link>https://hdrobd.github.io/alumni/eric/</link>
+      <pubDate>Wed, 14 Sep 2016 11:45:56 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/alumni/eric/</guid>
+      <description>Quan (Eric) Nguyen received a M.Sc. in Computer Science (with a specialization in Algorithms, Data Analytics and Machine Learning; and a minor in Statistics, both with distinction) from the University of Helsinki in 2015. He left the group in 2018.</description>
+    </item>
+    
+    <item>
+      <title>Tjalling Tjalkens</title>
+      <link>https://hdrobd.github.io/alumni/tjalling/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/alumni/tjalling/</guid>
+      <description>Tjalling Tjalkens received the M.S. degree in electrical engineering from the Eindhoven University of Technology, Eindhoven, The Netherlands in 1983 and the Ph.D. degree from the same university in 1987.
+From 1983 to 1986 he was a Research Assistant at the Eindhoven University of Technology and since 1986 he is a staff member at the same university where he is currently an associate professor in Information Theory. His research interest is in (universal) source coding theory and machine learning and he (co-)authored over 50 papers in this area.</description>
+    </item>
+    
+  </channel>
+</rss>

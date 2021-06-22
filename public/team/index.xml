@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BIASlab team on Health Data Research Organization</title>
+    <link>https://hdrobd.github.io/team/</link>
+    <description>Recent content in BIASlab team on Health Data Research Organization</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; Health Data Research Organization, 2021 </copyright>
+    <lastBuildDate>Thu, 01 Oct 2020 09:00:00 +0200</lastBuildDate><atom:link href="https://hdrobd.github.io/team/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bart van Erp</title>
+      <link>https://hdrobd.github.io/member/bart/</link>
+      <pubDate>Thu, 01 Oct 2020 09:00:00 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/member/bart/</guid>
+      <description>Bart has obtained his Bachelor and Master degrees in Electrical Engineering at the Eindhoven University of Technology in 2018 and 2020, respectively. Currently he is combining his passion for research and education as a PhD candidate - Teaching Assistant at the Eindhoven University of Technology in the BIASlab research group. His research focuses on the design of new signal processing algorithms for audio and speech. These algorithms are inspired by conventional approaches and are extended to allow for on-the-spot user customization.</description>
+    </item>
+    
+    <item>
+      <title>Thijn Hermsen</title>
+      <link>https://hdrobd.github.io/member/thijn/</link>
+      <pubDate>Tue, 01 Sep 2020 15:52:22 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/member/thijn/</guid>
+      <description>My name is Thijn Hermsen and I am a MSc student in the Signal Processing Systems group of the Electrical Engineering department at Eindhoven University of Technology. My research focuses on Generative modeling on football player&amp;rsquo;s decisions and further interests extend towards statistics and market strategies.</description>
+    </item>
+    
+    <item>
+      <title>Mark Legters</title>
+      <link>https://hdrobd.github.io/member/mark/</link>
+      <pubDate>Thu, 27 Aug 2020 11:58:58 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/member/mark/</guid>
+      <description>Mark Legters is an MSc student in the SPS group of the Electrical Engineering department at the Eindhoven University of Technology. He is conducting his MSc graduation project at BIASlab, in collaboration with Sorama. His research focuses on In-situ Learning of Acoustic Event Detection using Nature-inspired Artificial Intelligence.</description>
+    </item>
+    
+    <item>
+      <title>Dmitry V. Bagaev</title>
+      <link>https://hdrobd.github.io/member/bvdmitri/</link>
+      <pubDate>Fri, 18 Oct 2019 11:00:00 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/member/bvdmitri/</guid>
+      <description>My research interests lie in the fields of computer science, software developing, numerical modeling, machine learning, computational optimization and high-performant parallelized applications.
+Currently I am a PhD candidate in the SPS group of Electrical Engineering department in Eindhoven University of Technology.</description>
+    </item>
+    
+    <item>
+      <title>Wouter Kouw</title>
+      <link>https://hdrobd.github.io/member/wouter/</link>
+      <pubDate>Thu, 01 Mar 2018 15:52:22 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/member/wouter/</guid>
+      <description>Intelligent behaviour fascinates me: how animals can efficiently process a flood of sensory signals and learn to survive. Nature has produced elegant solutions for information processing that I believe can help us tackle challenges in modern society. I&amp;rsquo;m passionate about taking what we know from how brains process information, to making intelligent machines.
+My work in the lab focuses on deploying our agents to mobile robotics applications. I collaborate with industry to solve practical problems using free energy minimisation and I collaborate with researchers in control systems and robotics to study how neuro-biological processes of action and perception can be used for engineering.</description>
+    </item>
+    
+    <item>
+      <title>Martin Roa Villescas</title>
+      <link>https://hdrobd.github.io/member/martin/</link>
+      <pubDate>Thu, 01 Feb 2018 11:00:00 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/member/martin/</guid>
+      <description>My research interests lie in the fields of embedded software, computer science, machine learning, and autonomous agents.
+Currently I am a PhD candidate in the ES group of Electrical Engineering department in Eindhoven University of Technology.</description>
+    </item>
+    
+    <item>
+      <title>Joris Kraak</title>
+      <link>https://hdrobd.github.io/member/joris/</link>
+      <pubDate>Thu, 22 Sep 2016 10:45:17 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/member/joris/</guid>
+      <description>Joris Kraak received his M.Sc. in Electrical Engineering from the Eindhoven University of Technology (TU/e) in 2012. Since starting at GN Hearing in late 2010 he has been responsible for the development and maintenance of a number of MATLAB toolboxes for the creation and distribution of signal processing solutions. More recently, his work has been focused on the development of a fast prototyping framework for the BIASlab team based on Julia and a diverse suite of web and mobile technologies.</description>
+    </item>
+    
+    <item>
+      <title>Thijs van de Laar</title>
+      <link>https://hdrobd.github.io/member/thijs/</link>
+      <pubDate>Thu, 08 Sep 2016 09:59:35 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/member/thijs/</guid>
+      <description>Thijs van de Laar received his M.Sc. degree in natural sciences from the Radboud University Nijmegen in 2010, and his Ph.D. degree in machine learning from the Eindhoven University of Technology in 2019. Currently he works as a postdoctoral researcher in the Signal Processing Systems group at the Eindhoven University of Technology. His research focuses on personalization of audio processing algorithms through the development and application of modern machine learning techniques.</description>
+    </item>
+    
+    <item>
+      <title>Marco Cox</title>
+      <link>https://hdrobd.github.io/member/marco/</link>
+      <pubDate>Wed, 07 Sep 2016 15:30:39 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/member/marco/</guid>
+      <description>Marco Cox is a PhD candidate in the Electrical Engineering department of TU Eindhoven, working in the BIASlab team. His research focusses on Bayesian machine learning techniques for optimization and signal processing. He is also interested in information theory, computer architecture, and combinatorics. Marco received the M.Sc. degree in electrical engineering from TU Eindhoven in 2014.</description>
+    </item>
+    
+    <item>
+      <title>Albert Podusenko</title>
+      <link>https://hdrobd.github.io/member/albert/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/member/albert/</guid>
+      <description>Albert Podusenko is a PhD candidate in the SPS group of Electrical Engineering department in Eindhoven University of Technology. His research focuses on Bayesian intelligent agents.</description>
+    </item>
+    
+    <item>
+      <title>Bert de Vries</title>
+      <link>https://hdrobd.github.io/member/bert/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/member/bert/</guid>
+      <description>Bert de Vries received M.Sc. (1986) and Ph.D. (1991) degrees in Electrical Engineering from Eindhoven University of Technology (TU/e) and the University of Florida, respectively. From 1992 until 1999 he worked at Sarnoff Research Center in Princeton (NJ), where he contributed to research projects over a wide range of signal and image processing topics such as word spotting, financial market prediction and breast cancer detection from mammograms. Since April 1999 he has been employed in the hearing aids industry (currently at GN Hearing), both as a Principal Scientist and as a Research Manager.</description>
+    </item>
+    
+    <item>
+      <title>Hoang M.H. Nguyen</title>
+      <link>https://hdrobd.github.io/member/hoang/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/member/hoang/</guid>
+      <description>Hoang Minh Huu Nguyen is a MSc student in the SPS group of the Electrical Engineering department at Eindhoven University of Technology. His research focuses on Differentiable Programming for Speech and Audio Processing.</description>
+    </item>
+    
+    <item>
+      <title>Ismail Senoz</title>
+      <link>https://hdrobd.github.io/member/ismail/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/member/ismail/</guid>
+      <description>Ismail Senoz is a PhD candidate in the SPS group of Electrical Engineering department in Eindhoven University of Technology. His research focuses on automating approximate inference in Hierarchical Bayesian Systems.</description>
+    </item>
+    
+    <item>
+      <title>Ivan Bocharov</title>
+      <link>https://hdrobd.github.io/member/ivan/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/member/ivan/</guid>
+      <description>Ivan Bocharov is a PhD candidate in the SPS group of Electrical Engineering department in Eindhoven University of Technology. His research focuses on variational methods for machine learning and hierarchical dynamical systems. Aside from that he&amp;rsquo;s interested in natural language processing and compiler design.</description>
+    </item>
+    
+    <item>
+      <title>Magnus Koudahl</title>
+      <link>https://hdrobd.github.io/member/magnus/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/member/magnus/</guid>
+      <description>Magnus holds a M.Sc in IT &amp;amp; Cognition from the University of Copenhagen and has previously worked in Computational Neuroeconomics. He is currently a Ph.D candidate at TU/e where his research centers on fusing Active Inference and Bayesian Machine learning to create novel solutions for Reinforcement Learning problems.</description>
+    </item>
+    
+    <item>
+      <title>Patrick Wijnings</title>
+      <link>https://hdrobd.github.io/member/patrick/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/member/patrick/</guid>
+      <description>Patrick Wijnings got his MSc in Electrical Engineering at Eindhoven University of Technology in 2015. Since 2011 he has been working (part time) at Sorama as System Engineer, where he helped develop the hardware and real-time signal processing core used in the largest microphone array in the world. Since July 2017 he is pursuing his PhD at Eindhoven University of Technology in collaboration with BIASlab and Sorama. His research interests are Bayesian inverse acoustics for large microphone arrays, and the accompanying problem of approximate inference for high-dimensional models.</description>
+    </item>
+    
+    <item>
+      <title>Semih Akbayrak</title>
+      <link>https://hdrobd.github.io/member/semih/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>https://hdrobd.github.io/member/semih/</guid>
+      <description>Semih Akbayrak is a PhD candidate in the SPS group of Electrical Engineering department in Eindhoven University of Technology. His research focuses on automating approximate inference in probabilistic models. Previously, he studied statistical interpretation of matrix and tensor factorizations.</description>
+    </item>
+    
+  </channel>
+</rss>
