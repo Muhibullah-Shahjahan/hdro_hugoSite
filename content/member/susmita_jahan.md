@@ -1,40 +1,33 @@
 +++
-date = "2016-07-12T15:52:22+02:00"
+date = 2016-07-12T13:52:22Z
 id = "susmita"
-interests = ["Public Health", "Health Data Analytics","Bioinformatics"]
+interests = ["Public Health", "Health Data Analytics", "Bioinformatics"]
 name = "Susmita Jahan"
 portrait = "portraits/susmita-jahan.jpg"
 short_bio = "I am a Microbiology Master’s student at Jagannath University and a Health Data Science enthusiast. Health data science, bioinformatics, public health are some of my research interests. I founded the Health Data Research Organization as well."
-title = "Member"
 sort_position = 8
-
-[[social]]
-    icon = "envelope"
-    icon_pack = "fa"
-    link = "mailto:sushmita.jahan99@gmail.com"
-
-[[social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "https://github.com/"
-
-[[social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "https://www.linkedin.com/in/susmita-jahan/"
-
+title = "Susmita Jahan"
 [[education]]
-    course = "BSc in Microbiology"
-    institution = 'Jagannath University'
-    year = 2017
-
-
+course = "BSc in Microbiology"
+institution = "Jagannath University"
+year = 2017
 [[organizations]]
-    name = "Health Data Research Organization"
-    role = "Member"
+name = "Health Data Research Organization"
+role = "Member"
+[[social]]
+icon = "envelope"
+icon_pack = "fa"
+link = "mailto:sushmita.jahan99@gmail.com"
+[[social]]
+icon = "github"
+icon_pack = "fa"
+link = "https://github.com/"
+[[social]]
+icon = "linkedin"
+icon_pack = "fa"
+link = "https://www.linkedin.com/in/susmita-jahan/"
 
 +++
-
 I am a Microbiology honours student at Jagannath
 University and a Health Data Science enthusiast. Health data science, bioinformatics, public health are some of my research interests. I am a member of the Health Data Research Organization as well.
 
