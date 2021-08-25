@@ -1,0 +1,23 @@
+---
+label: For pages
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: field_group_list
+  name: authors
+  label: authors
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: boolean
+    name: is_member
+    label: is_member
+  - type: text
+    name: link
+    label: link
