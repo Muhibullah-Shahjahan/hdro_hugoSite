@@ -1,6 +1,5 @@
 +++
 date = 2021-08-18T18:00:00Z
-draft = true
 education = []
 id = ""
 interests = []
