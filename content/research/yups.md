@@ -8,7 +8,7 @@ portrait = "/uploads/colourfull-camera.png"
 short_bio = "Lorem"
 social = []
 sort_position = 2
-title = "Yups"
+title = "New innovation"
 [[organizations]]
 name = "twitter"
 role = "https://twitter.com/MuhibullahSha10"
